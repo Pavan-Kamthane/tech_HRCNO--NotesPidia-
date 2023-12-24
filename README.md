@@ -6,4 +6,4 @@
 ![image](https://github.com/Pavan-Kamthane/NotesPidia/assets/95903010/1067167c-0bd5-42f1-8cb5-e9391f8b7d81)
 
 
-Webiste Demo: [click Here](https://pavan-kamthane.github.io/NotesPidia/)
+Webiste Demo: [click Here](https://pavan-kamthane.github.io/tech_HRCNO--NotesPidia-/)
